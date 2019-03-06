@@ -1,0 +1,541 @@
+{
+	"expediente": {
+		"idExpediente": "000000084652",
+		"anuncios": {
+			"anuncio": [
+				{
+					"referenciaPublicacion": "2018-0000037729",
+					"fechaPublicacion": "03/10/2018 11:03:13",
+					"motivoActualizacion": "Se adjunta a la presente publicación aclaraciones al pliego de prescripciones técnicas.",
+					"anuncioTipo": "Convocatoria de licitación",
+					"perfilContratanteNombre": "Agencia Andaluza de Instituciones Culturales",
+					"perfilContratanteNif": "Q9155027G",
+					"tipoPoderAdjudicador": "Comunidad Autónoma",
+					"principalActividadEjercida": "Gestión de programas culturales.",
+					"perfilContratanteDireccion": "Estadio Olímpico de Sevilla. Puerta M. Isla de la Carturaj, s/n Agencia Andaluza de Instituciones Culturales Sevilla Andalucía España",
+					"listaProvinciasTramitacion": {
+						"provinciaTramitacion": "SEVILLA"
+					},
+					"tipoContrato": "Suministros",
+					"denominacionContrato": "Suministro, en la modalidad de renting, de equipos microinformáticos y mantenimiento de los mismos.",
+					"lugarEjecucion": "(Andalucía) ES61",
+					"duracion": "48 Mes(es)",
+					"numeroExpediente": "M18/C0000934",
+					"divisionPorLotes": "No",
+					"cantidadLotes": "0",
+					"clasificacionCPV": {
+						"clasificacionCPVItem": [
+							{
+								"nombre": "CPV",
+								"codigo": "30213300",
+								"descripcion": "Ordenadores de mesa."
+							},
+							{
+								"nombre": "CPV",
+								"codigo": "30213100",
+								"descripcion": "Ordenadores portátiles."
+							},
+							{
+								"nombre": "CPV",
+								"codigo": "30237000",
+								"descripcion": "Partes, accesorios y suministros para ordenadores."
+							}
+						]
+					},
+					"acp": "No",
+					"descripcionContrato": "Suministro, en la modalidad de renting, de equipos microinformáticos y mantenimiento de los mismos.",
+					"procedimiento": "Abierto",
+					"tipoTramitacion": "Ordinario",
+					"idiomaOferta": "Castellano",
+					"presentacionOferta": "Manual",
+					"moneda": "EURO",
+					"importeNeto": "384978.53",
+					"importeEstimado": "423476.38",
+					"comentariosLicitacion": "Posibilidad de ampliar un 10% el importe de adjudicación del contrato.",
+					"admiteVariantes": "Sí",
+					"regulacionArmonizada": "Sujeto a regulación armonizada",
+					"recursoEspecial": "Contrato susceptible de Recurso especial",
+					"fechaLimiteObtenerDocumentacion": "15/10/2018 15:00:00",
+					"requisitosMinimosSolvencia": "Los establecidos en el pliego de cláusulas administrativas particulares",
+					"clausulas": {
+						"clausula": [
+							{
+								"grupo": "Cláusulas ambientales",
+								"subgrupo": "Respeto al Medio Ambiente",
+								"categoria": "Medidas sobre reciclado y gestión de residuos"
+							},
+							{
+								"grupo": "Clausulas sociales",
+								"subgrupo": "Ámbito Laboral",
+								"categoria": "Formación en el empleo"
+							}
+						]
+					},
+					"fechaLimitePresentarOfertas": "16/10/2018 15:00:00",
+					"fechaAperturaAdministrativa": "23/10/2018 12:00:00",
+					"fechaAperturaEconomica": "26/10/2018 12:00:00",
+					"plazoMantenimientoOferta": "3",
+					"direccionesContactos": {
+						"direccionContacto": [
+							{
+								"tipo": "Lugar de apertura de ofertas",
+								"entidad": "Agencia Andaluza de Instituciones Culturales.",
+								"calle": "Estadio Olímpico, Pta. M. Isla de la Cartuja.",
+								"numero": "s/n",
+								"codigoPostal": "41092",
+								"ciudad": "Sevilla"
+							},
+							{
+								"tipo": "Lugar de presentación de ofertas",
+								"entidad": "Agencia Andaluza de Instituciones Culturales",
+								"calle": "Estadio Olímpico, Pta. M. Isla de la Cartuja.",
+								"numero": "s/n",
+								"codigoPostal": "41092",
+								"ciudad": "Sevilla"
+							},
+							{
+								"tipo": "Lugar de obtención de documentación e información",
+								"entidad": "Agencia Andaluza de Instituciones Culturales",
+								"calle": "Estadio Olímpico, Pta. M. Isla de la Cartuja.",
+								"numero": "s/n",
+								"codigoPostal": "41092",
+								"ciudad": "Sevilla",
+								"personaContacto": "José Damián garcía González",
+								"telefono": "955929000",
+								"fax": "955929215",
+								"email": "concursostic.aaiicc@juntadeandalucia.es"
+							}
+						]
+					},
+					"criteriosSeleccionCandidatos": "Los establecidos en el pliego de cláusulas administrativas particulares",
+					"boletines": {
+						"boletin": {
+							"tipo": "DOUE",
+							"fechaEnvio": "11/09/2018 00:00:00",
+							"fechaPublicacion": "12/09/2018 00:00:00",
+							"referencia": "2018/S175-397954",
+							"numeroBoletin": "S175",
+							"anyo": "2018"
+						}
+					},
+					"documentosAdjuntos": {
+						"documentoAdjunto": [
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-0",
+								"nombre": "MJ Firmada.pdf",
+								"tamanyo": "1070.48",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "Memoria justificativa_",
+								"docHash": "SHA-256: 8585de6af062b832a07967c851d61e7249bc9cf194b417016ba85943d204e9ec"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-1",
+								"nombre": "Acuerdo_Inicio de expediente_.pdf",
+								"tamanyo": "206.92",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "Inicio de expediente",
+								"docHash": "SHA-256: 779e3d9d9a1e9a0c27bfd33d93ed50800eaa2e01e72b288ada03d4b2519ed0e4"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-2",
+								"nombre": "M18-C0000934_PPT1.pdf",
+								"tamanyo": "5335.77",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "Pliego de prescripciones técnicas_",
+								"docHash": "SHA-256: 964032e216b60db8385a242e25014b650009457192db74c0cf60e640df745716"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-3",
+								"nombre": "PCAP_SUMINISTRO_.pdf",
+								"tamanyo": "21115.18",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "Pliego de cláusulas administrativas particulares_",
+								"docHash": "SHA-256: b06b63368fc5b5862df7a0e7ba2bc1be67dffa7c6e848e72eaf9192e057d328c"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-4",
+								"nombre": "Certificacion existencia credito.pdf",
+								"tamanyo": "279.06",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "Certificado de existencia de crédito_",
+								"docHash": "SHA-256: 9ba47cdd5ab19081c6b398840d2285be2dd149c38c643738cad464bfa1bce895"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-5",
+								"nombre": "Aprobación de expediente.pdf",
+								"tamanyo": "176.07",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "Aprobación del expediente_",
+								"docHash": "SHA-256: ec251ccb9c05d4d3b6fa8ed808b9378ccec076b190c1653ab6159519eb303966"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-6",
+								"nombre": "Resolución_Composición de la mesa de contratación_.pdf",
+								"tamanyo": "243",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "Composición de la mesa de contratación_",
+								"docHash": "SHA-256: ccbef47d1f0891fe0d266b8bf5ca481179a5c4f12e781e2346cb7935f3823510"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-7",
+								"nombre": "DEUCM18.C0000934.XML",
+								"tamanyo": "235.7",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "DEUCM18.C0000934_",
+								"docHash": "SHA-256: 337004da8905ba90295e0421e7368388687daebd0e34d7cabb1f23fd65eafbd1"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000037729&refDoc=2018-0000037729-8",
+								"nombre": "Respuesta_ExpM18_C0000934.pdf",
+								"tamanyo": "282.33",
+								"mime": "mime/text",
+								"tipo": "Información adicional",
+								"descripcion": "Aclaraciones_",
+								"docHash": "SHA-256: 784b98a78ec30cd33f52d097f1ef16703f0f44b3856505ae62caf7605c5d2c12"
+							}
+						]
+					},
+					"criteriosAdjudicacion": "Los establecidos en el pliego de cláusulas administrativas particulares",
+					"condicionesParticularesEjecucion": "Las establecidas en el pliego de cláusulas administrativas particulares",
+					"pedidoElectronico": "No",
+					"facturaElectronica": "No",
+					"pagoTelematico": "Sí",
+					"clasificacionEmpresarial": "",
+					"anunciosRelacionados": {
+						"anuncioRelacionado": [
+							{
+								"numeroAnuncio": "2018-0000050638",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "27/11/2018 14:50:13",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000042859",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "24/10/2018 13:08:46",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000048309",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "15/11/2018 13:47:51",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000061885",
+								"tipo": "Adjudicación",
+								"fechaPublicacion": "14/12/2018 14:18:08",
+								"activo": "Sí"
+							},
+							{
+								"numeroAnuncio": "2018-0000033807",
+								"tipo": "Convocatoria de licitación",
+								"fechaPublicacion": "12/09/2018 11:48:26",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000060795",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "10/12/2018 13:43:14",
+								"activo": "Sí"
+							},
+							{
+								"numeroAnuncio": "2018-0000046317",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "08/11/2018 13:56:29",
+								"activo": "No"
+							}
+						]
+					}
+				},
+				{
+					"referenciaPublicacion": "2018-0000062303",
+					"fechaPublicacion": "18/12/2018 10:11:05",
+					"anuncioTipo": "Adjudicación",
+					"perfilContratanteNombre": "Consejería de Educación. Secretaría General Técnica (En Transición)",
+					"perfilContratanteNif": "S4111001F",
+					"tipoPoderAdjudicador": "Comunidad Autónoma",
+					"perfilContratanteDireccion": "C/ Juan Antonio de Vizarrón, s/n. Edificio Torretriana. Isla de la Cartuja - Sevilla Andalucía España",
+					"listaProvinciasTramitacion": {
+						"provinciaTramitacion": "SEVILLA"
+					},
+					"tipoContrato": "Servicios",
+					"denominacionContrato": "ALMACENAMIENTO, MANIPULADO Y DISTRIBUCIÓN INSTITUCIONAL DE PUBLICACIONES",
+					"lugarEjecucion": "(Sevilla) ES618",
+					"duracion": "12 Mes(es)",
+					"numeroExpediente": "CONTR 2018 0000050428",
+					"clasificacionCPV": {
+						"clasificacionCPVItem": [
+							{
+								"nombre": "CPV",
+								"codigo": "64121000",
+								"descripcion": "Servicios multimodales de correo"
+							},
+							{
+								"nombre": "CPV",
+								"codigo": "63120000",
+								"descripcion": "Servicios de almacenamiento y depósito"
+							}
+						]
+					},
+					"procedimiento": "Abierto Supersimplificado",
+					"tipoTramitacion": "Ordinario",
+					"moneda": "EURO",
+					"importeTotal": "38720",
+					"importeNeto": "32000",
+					"importeEstimado": "32000",
+					"regulacionArmonizada": "No sujeto a regulación armonizada",
+					"recursoEspecial": "Contrato no susceptible de Recurso especial",
+					"adjudicaciones": {
+						"adjudicacion": {
+							"admiteDivisionLotes": "No",
+							"definitivo": "Sí",
+							"numLotes": "0",
+							"fechaAdjudicacion": "08/11/2018 00:00:00",
+							"fechaFormalizacion": "18/12/2018 00:00:00",
+							"importeTotalAdjudicacion": "38720",
+							"adjudicatarios": {
+								"adjudicatario": {
+									"tipoDescripcion": "Formalizado",
+									"numeroContrato": "CONTR 50428 2018",
+									"nifAdjudicatario": "B41059650",
+									"nombreAdjudicatario": "CENTROS DE EMPLEO PROTEGIDO ATUREMSL",
+									"importeNetoAdjudicado": "32000",
+									"importeTotalAdjudicado": "38720",
+									"numeroLicitadores": "1"
+								}
+							},
+							"prorrogas": "",
+							"modificaciones": ""
+						}
+					},
+					"boletines": "",
+					"documentosAdjuntos": {
+						"documentoAdjunto": {
+							"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000062303&refDoc=2018-0000062303-0",
+							"nombre": "Contrato formalizado-0029558114.PDF",
+							"tamanyo": "162.55",
+							"mime": "mime/text",
+							"tipo": "Pliegos de condiciones y documentos complementarios",
+							"descripcion": "Contrato formalizado",
+							"docHash": "SHA-256: 6ac6ed418bdaa338350dca11c866b344da5ae59781164542f42090c8a925e26d"
+						}
+					},
+					"anunciosRelacionados": {
+						"anuncioRelacionado": [
+							{
+								"numeroAnuncio": "2018-0000042442",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "23/10/2018 12:18:52",
+								"activo": "Sí"
+							},
+							{
+								"numeroAnuncio": "2018-0000061592",
+								"tipo": "Adjudicación",
+								"fechaPublicacion": "13/12/2018 15:40:51",
+								"activo": "Sí"
+							},
+							{
+								"numeroAnuncio": "2018-0000040068",
+								"tipo": "Convocatoria de licitación (Corrección)",
+								"fechaPublicacion": "11/10/2018 12:58:01",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000039687",
+								"tipo": "Convocatoria de licitación",
+								"fechaPublicacion": "10/10/2018 13:31:25",
+								"activo": "No"
+							}
+						]
+					}
+				},
+				{
+					"referenciaPublicacion": "2018-0000010251",
+					"fechaPublicacion": "09/03/2018 10:18:26",
+					"motivoActualizacion": "Fecha de publicación en el BOJA de la licitación",
+					"anuncioTipo": "Contrato de servicio",
+					"perfilContratanteNombre": "Delegación del Gobierno de la Junta de Andalucía en Huelva  (En Transición)",
+					"perfilContratanteNif": "S4111001F",
+					"listaProvinciasTramitacion": {
+						"provinciaTramitacion": "HUELVA"
+					},
+					"tipoContrato": "Servicios",
+					"denominacionContrato": "Servicio de depósito, custodia y consulta de documentación de los Órganos Judiciales de la provincia de Huelva",
+					"lugarEjecucion": "(Huelva) ES615",
+					"duracion": "0",
+					"numeroExpediente": "S-2/2018",
+					"divisionPorLotes": "No",
+					"cantidadLotes": "0",
+					"clasificacionCPV": {
+						"clasificacionCPVItem": [
+							{
+								"nombre": "CPV",
+								"codigo": "63120000",
+								"descripcion": "Servicios de almacenamiento y depósito."
+							},
+							{
+								"nombre": "CPV",
+								"codigo": "92512000",
+								"descripcion": "Servicios de archivos."
+							}
+						]
+					},
+					"procedimiento": "Abierto",
+					"tipoTramitacion": "Ordinario",
+					"moneda": "EURO",
+					"importeTotal": "193677.8",
+					"importeNeto": "160064.28",
+					"regulacionArmonizada": "No sujeto a regulación armonizada",
+					"recursoEspecial": "Contrato susceptible de Recurso especial",
+					"fechaLimiteObtenerDocumentacion": "28/03/2018 14:00:00",
+					"requisitosMinimosSolvencia": "Los establecidos en el pliego de cláusulas administrativas particulares",
+					"fechaLimitePresentarOfertas": "28/03/2018 14:00:00",
+					"direccionesContactos": {
+						"direccionContacto": [
+							{
+								"tipo": "Lugar de presentación de ofertas",
+								"entidad": "Delegación del Gobierno de la Junta de Andalucía en Huelva",
+								"calle": "C/ Sanlúcar de Barrameda",
+								"numero": "3",
+								"codigoPostal": "21071",
+								"ciudad": "Huelva"
+							},
+							{
+								"tipo": "Lugar de apertura de ofertas",
+								"entidad": "Delegación del Gobierno de la Junta de Andalucía en Huelva",
+								"calle": "C/ Sanlúcar de Barrameda",
+								"numero": "3",
+								"codigoPostal": "21071",
+								"ciudad": "Huelva"
+							},
+							{
+								"tipo": "Lugar de obtención de documentación e información",
+								"entidad": "Delegación del Gobierno de la Junta de Andalucía en Huelva",
+								"calle": "C/ Sanlúcar de Barrameda",
+								"numero": "3",
+								"codigoPostal": "21071",
+								"ciudad": "Huelva",
+								"personaContacto": "Departamento de contratación",
+								"telefono": "959011400",
+								"fax": "959011410",
+								"email": "contratacion.huelva.dgob@juntadeandalucia.es",
+								"web": "http://www.juntadeandalucia.es/temas/contratacion-publica.html"
+							}
+						]
+					},
+					"criteriosSeleccionCandidatos": "Los establecidos en el pliego de cláusulas administrativas particulares",
+					"boletines": {
+						"boletin": {
+							"tipo": "BOJA",
+							"fechaPublicacion": "08/03/2018 00:00:00",
+							"numeroBoletin": "2",
+							"anyo": "2018"
+						}
+					},
+					"documentosAdjuntos": {
+						"documentoAdjunto": [
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000010251&refDoc=2018-0000010251-0",
+								"nombre": "PCAP Custodia archivos informada gabinete.pdf",
+								"tamanyo": "802.61",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "PCAP"
+							},
+							{
+								"enlace": "http://www.juntadeandalucia.es/contratacion/document/download?refCode=2018-0000010251&refDoc=2018-0000010251-1",
+								"nombre": "PPT Custodia archivos.pdf",
+								"tamanyo": "114.79",
+								"mime": "mime/text",
+								"tipo": "Pliegos de condiciones y documentos complementarios",
+								"descripcion": "PPT"
+							}
+						]
+					},
+					"criteriosAdjudicacion": "Los establecidos en el pliego de cláusulas administrativas particulares",
+					"condicionesParticularesEjecucion": "Las establecidas en el pliego de cláusulas administrativas particulares",
+					"clasificacionEmpresarial": "",
+					"anunciosRelacionados": {
+						"anuncioRelacionado": [
+							{
+								"numeroAnuncio": "2018-0000017171",
+								"tipo": "Adjudicación",
+								"fechaPublicacion": "23/05/2018 10:35:41",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000021014",
+								"tipo": "Adjudicación (Suspendido)",
+								"fechaPublicacion": "22/06/2018 12:30:17",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000014746",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "18/04/2018 09:00:01",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000024435",
+								"tipo": "Adjudicación (Levantamiento)",
+								"fechaPublicacion": "17/07/2018 13:52:08",
+								"activo": "Sí"
+							},
+							{
+								"numeroAnuncio": "2018-0000014600",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "16/04/2018 16:36:33",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000017025",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "14/05/2018 16:42:17",
+								"activo": "Sí"
+							},
+							{
+								"numeroAnuncio": "2018-0000014383",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "13/04/2018 12:05:44",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000013935",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "10/04/2018 11:45:09",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000010252",
+								"tipo": "Convocatoria de licitación (Corrección)",
+								"fechaPublicacion": "09/03/2018 10:29:46",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000009883",
+								"tipo": "Convocatoria de licitación",
+								"fechaPublicacion": "08/03/2018 11:59:38",
+								"activo": "No"
+							},
+							{
+								"numeroAnuncio": "2018-0000016054",
+								"tipo": "Convocatoria de licitación (Infor.Adicional)",
+								"fechaPublicacion": "04/05/2018 08:21:05",
+								"activo": "No"
+							}
+						]
+					}
+				}
+			]
+		}
+	}
+}
