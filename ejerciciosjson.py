@@ -28,13 +28,24 @@ def contarrelacionados(cad,datos):
 
 #3. Pedir por teclado la denominacion del contrato y mostrar la descripción de los CPV
 
+def descCPV(cad,datos):
+	for documento in datos["expediente"]["anuncios"]["anuncio"]:
+		lista=[]
+		if cad in documento["denominacionContrato"]:
+			for elem in documento["clasificacionCPV"]["clasificacionCPVItem"]:
+				lista.append(elem["descripcion"])
+		for elem in lista:
+			return elem
+		
 #4. Pedir por teclado la fecha de publicación de un anuncio relacionado y te muestra la referencia de publicación del anuncio principal
 
 #5. Pedir por teclado la fecha de publicación de un anuncio y te muestra el enlace, el tipo y la descripción de los documentos adjuntos
 import json
 with open ("anuncios.json") as fichero:
 	datos=json.load(fichero)
-	cad=input("Dime el tipo de contratos(Servicios o Suministros: ")
-	print(contarrelacionados(cad,datos))
+	#cad=input("Dime el tipo de contratos(Servicios o Suministros: ")
+	#print(contarrelacionados(cad,datos))
+	#cad=input("Dime la denominacion del contrato(ALMACENAMIENTO,Servicio,Suminitro): ")
+	#print(descCPV(cad,datos))
 
 	
