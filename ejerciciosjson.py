@@ -46,6 +46,15 @@ def referenciarelacionado(cad,datos):
 				return elem["numeroAnuncio"]
 
 #5. Pedir por teclado la fecha de publicación de un anuncio y te muestra el enlace, el tipo y la descripción de los documentos adjuntos
+
+def datosdocumentosadjuntos(cad,datos):
+	for documento in datos["expediente"]["anuncios"]["anuncio"]:
+		if cad in documento["fechaPublicacion"]:
+			for elem in documento["documentosAdjuntos"]["documentoAdjunto"]:
+				return elem["descripcion"],elem["tipo"],elem["enlace"]
+
+
+
 import json
 with open ("anuncios.json") as fichero:
 	datos=json.load(fichero)
@@ -53,6 +62,7 @@ with open ("anuncios.json") as fichero:
 	#print(contarrelacionados(cad,datos))
 	#cad=input("Dime la denominacion del contrato(ALMACENAMIENTO,Servicio,Suminitro): ")
 	#print(descCPV(cad,datos))
-	cad=input("Dime la fecha de un anuncio relacionado: ")
-	print(referenciarelacionado(cad,datos))
-	
+	#cad=input("Dime la fecha de un anuncio relacionado: ")
+	#print(referenciarelacionado(cad,datos))
+	cad=input("Dime la fecha de publicacion de un anuncio: ")
+	print(datosdocumentosadjuntos(cad,datos))
