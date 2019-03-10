@@ -17,6 +17,15 @@ def Tiposadjuntos(datos):
 
 #2. Pedir por teclado el tipo de anuncio y cuenta los anuncios relacionados
 
+def contarrelacionados(cad,datos):
+	listarelacionados=[]
+	for documento in datos["expediente"]["anuncios"]["anuncio"]:
+		if documento["tipoContrato"]==cad:
+			for elem in documento["anunciosRelacionados"]["anuncioRelacionado"]:
+				listarelacionados.append(elem)
+	return len(listarelacionados)
+
+
 #3. Pedir por teclado la denominacion del contrato y mostrar la descripción de los CPV
 
 #4. Pedir por teclado la fecha de publicación de un anuncio relacionado y te muestra la referencia de publicación del anuncio principal
@@ -25,5 +34,7 @@ def Tiposadjuntos(datos):
 import json
 with open ("anuncios.json") as fichero:
 	datos=json.load(fichero)
-	for elem in Tiposadjuntos(datos):
-		print(elem)
+	cad=input("Dime el tipo de contratos(Servicios o Suministros: ")
+	print(contarrelacionados(cad,datos))
+
+	
