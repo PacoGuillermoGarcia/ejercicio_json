@@ -39,6 +39,12 @@ def descCPV(cad,datos):
 		
 #4. Pedir por teclado la fecha de publicación de un anuncio relacionado y te muestra la referencia de publicación del anuncio principal
 
+def referenciarelacionado(cad,datos):
+	for documento in datos["expediente"]["anuncios"]["anuncio"]:
+		for elem in documento["anunciosRelacionados"]["anuncioRelacionado"]:
+			if cad in elem["fechaPublicacion"]:
+				return elem["numeroAnuncio"]
+
 #5. Pedir por teclado la fecha de publicación de un anuncio y te muestra el enlace, el tipo y la descripción de los documentos adjuntos
 import json
 with open ("anuncios.json") as fichero:
@@ -47,5 +53,6 @@ with open ("anuncios.json") as fichero:
 	#print(contarrelacionados(cad,datos))
 	#cad=input("Dime la denominacion del contrato(ALMACENAMIENTO,Servicio,Suminitro): ")
 	#print(descCPV(cad,datos))
-
+	cad=input("Dime la fecha de un anuncio relacionado: ")
+	print(referenciarelacionado(cad,datos))
 	
